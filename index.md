@@ -8,4 +8,4 @@
 
 <h4>英文自傳</h4>
 <h5>I am Allen, a third-year student in Fu Jen University. I'm very kindly, I always listen to everyone's, and I don't persistent in myself. My hobbies is playing baseball and my expertise is C++ ,HTML and Android studio. My advantage is that I can grab the focus of things and I can deal with various situations between people relatively quickly. One advantage is that I think it is very important, that is never late or absent for no reason. I think this is the duty to be  a student or an employee. I don’t think I have any important achievements in the student stage. I can only say that I have achieved some small goals: I wrote the login and shopping system of the web in my sophomore year, and I am currently developing an Android system app and combining database with my classmates.</h5>
-</body>
+
