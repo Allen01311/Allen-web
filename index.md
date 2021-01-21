@@ -1,6 +1,18 @@
  <html> 
 <body style="background-color:#97FFFF;">
 <h1>Guanhua's Website</h1>
+<h1>
+<script language="JavaScript">
+function ShowTime(){
+　document.getElementById('showbox').innerHTML = new Date();
+　setTimeout('ShowTime()',1000);
+}
+</script>
+<body onload="ShowTime()">
+<div id="showbox"></div>
+</body>
+</h1>
+
 <h3>自我介紹</h3>
 <img src="https://i.imgur.com/EhQ26in.jpg">
 <h4>中文自傳<h4>
@@ -23,15 +35,6 @@
 <option value="https://zh.wikipedia.org/wiki/Node.js">Node.js</option>
 <option value="https://en.wikipedia.org/wiki/R_(programming_language)">R</option>
 </select>
-
-<script language="JavaScript">
-function ShowTime(){
-　document.getElementById('showbox').innerHTML = new Date();
-　setTimeout('ShowTime()',1000);
-}
-</script>
-<body onload="ShowTime()">
-<div id="showbox"></div>
-</body>
-
 </html> 
+
+
