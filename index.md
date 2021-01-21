@@ -1,7 +1,7 @@
  <body style="background-color:#97FFFF;">
 <h1>Guanhua's Website</h1>
 
-<body background="https://i.imgur.com/Ea0nTkH.jpg"></body>
+<body background="https://i.imgur.com/ZkM76BW.jpg"></body>
 <h1>
 <script language="JavaScript">
 function ShowTime(){
