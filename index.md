@@ -3,16 +3,18 @@
 
 <h1>
 <script language="JavaScript">
+<font color="orange">
 function ShowTime(){
 　document.getElementById('showbox').innerHTML = new Date();
 　setTimeout('ShowTime()',1000);
 }
-<font color="orange">
+</font>
+
 </script>
 <body onload="ShowTime()">
 <div id="showbox"></div>
 </body>
-</font>
+
 </h1>
 
 <h2>自我介紹</h2>
