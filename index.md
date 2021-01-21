@@ -1,3 +1,5 @@
+<!DOCTYPE html>  
+<html> 
 <body style="background-color:#97FFFF;">
 <h1>Guanhua's Website</h1>
 <h3>自我介紹</h3>
@@ -22,3 +24,39 @@
 <option value="https://zh.wikipedia.org/wiki/Node.js">Node.js</option>
 <option value="https://en.wikipedia.org/wiki/R_(programming_language)">R</option>
 </select>
+
+<head>
+<title>時鐘</title>
+<meta charset="utf-8">
+<style>
+*{
+	padding:0;
+	margin:0;
+	}
+</style>
+<script>
+function show(){
+	var images=new Array("./images/s0.png","./images/s1.png","./images/s2.png","./images/s3.png","./images/s4.png","./images/s5.png","./images/s6.png","./images/s7.png","./images/s8.png","./images/s9.png");
+	var myTime=new Date();
+	var hours=myTime.getHours();
+	var minutes=myTime.getMinutes();
+	var seconds=myTime.getSeconds();
+	if(hours<=9){hours="0"+hours;}//補足兩位
+	if(minutes<=9){minutes="0"+minutes;}
+	if(seconds<=9){seconds="0"+seconds}
+	var theString=""+hours+minutes+seconds;//轉換為字串
+	document.getElementById("img0").src=images[theString.charAt(0)];
+	document.getElementById("img1").src=images[theString.charAt(1)];
+	document.getElementById("img2").src=images[theString.charAt(2)];
+	document.getElementById("img3").src=images[theString.charAt(3)];
+	document.getElementById("img4").src=images[theString.charAt(4)];
+	document.getElementById("img5").src=images[theString.charAt(5)];
+	setTimeout("show()",1000);
+	}
+</script>
+</head>
+<body onLoad="show()">
+<img id="img0" /><img id="img1" />時<img id="img2" /><img id="img3" />分<img id="img4" /><img id="img5" />
+</body>
+
+</html> 
