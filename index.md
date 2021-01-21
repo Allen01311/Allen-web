@@ -45,163 +45,22 @@ function ShowTime(){
 
 <div class="top-bar">
 	<ul>
-		<li><a href="javascript:;" class="home">主页</a></li>
-		<li><a href="javascript:;" class="about">关于作者</a></li>
-		<li><a href="javascript:;" class="portfolio">作品</a></li>
-		<li><a href="javascript:;" class="contact">联系方式</a></li>
+		<li><a href="javascript:;" class="home">主頁</a></li>
+		<li><a href="javascript:;" class="contact">聯絡方式</a></li>
 	</ul>
 </div>
-<div class="content1">
-	<div class="title">个人作品集</div>
-	<div class="tips">codepen所有作品展示</div>
-	<ul>
-		<li><a href="https://github.com/pecopeco" target="_blank"><i class="fa fa-github fa-fw"></i> Github</a></li>
-		<li><a href="https://codepen.io/ypeco/" target="_blank"><i class="fa fa-edit fa-fw"></i> Codepen</a></li>
-		<li><a href="https://coding.net/u/yangth" target="_blank"><i class="fa fa-github-alt fa-fw"></i> Coding</a></li>
-		<li><a href="http://weibo.com/u/2130327481" target="_blank"><i class="fa fa-eye fa-fw"></i> 新浪微博</a></li>
-	</ul>
-</div>
-<div class="content2">
-	<div class="left">
-		<div class="left-title">作者简介</div>
-		<div class="left-content">想好了再写。。</div>
-	</div>
-	<div class="right">
-		<img src="http://ww4.sinaimg.cn/large/7efa37b9jw1f5y3uo6nhqj20500503yj.jpg">
-	</div>
-</div>
-<div class="content3">
-	<div class="content3-title">作品集</div>
-	<div class="content3-content">最近的作品链接</div>
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-4">
-				<div class="top top1">
-					<a href="https://codepen.io/ypeco/full/vKpOyy">
-						<div class="cover">
-							<i class="fa fa-fire fa-fw"></i>
-						</div>
-					</a>
-				</div>
-				<div class="sub">
-					<div class="title">Hero Page Task</div>
-					<div class="content">Html、Bootstrap</div>
-					<div class="tips">2016年7月15日</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="top top2">
-					<a href="https://codepen.io/ypeco/full/grvVAq">
-						<div class="cover">
-							<i class="fa fa-fire fa-fw"></i>
-						</div>
-					</a>
-				</div>
-				<div class="sub">
-					<div class="title">弹幕</div>
-					<div class="content">Html、Bootstrap and Jquery</div>
-					<div class="tips">2016年7月20日</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="top top3">
-					<a href="https://codepen.io/ypeco/full/LRPAWW/">
-						<div class="cover">
-							<i class="fa fa-fire fa-fw"></i>
-						</div>
-					</a>
-				</div>
-				<div class="sub">
-					<div class="title">名言</div>
-					<div class="content">Html、Bootstrap and Jquery</div>
-					<div class="tips">2016年8月20日</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="top top4">
-					<a href="https://codepen.io/ypeco/full/JRddOj">
-						<div class="cover">
-							<i class="fa fa-fire fa-fw"></i>
-						</div>
-					</a>
-				</div>
-				<div class="sub">
-					<div class="title">计算器</div>
-					<div class="content">Html、Jquery</div>
-					<div class="tips">2016年9月7日</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="top top5">
-					<a href="https://codepen.io/ypeco/full/wzamoE">
-						<div class="cover">
-							<i class="fa fa-fire fa-fw"></i>
-						</div>
-					</a>
-				</div>
-				<div class="sub">
-					<div class="title">天气预报</div>
-					<div class="content">Html、Bootstrap and Jquery</div>
-					<div class="tips">2016年9月9日</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="top top6">
-					<a href="https://codepen.io/ypeco/full/BLoBkW">
-						<div class="cover">
-							<i class="fa fa-fire fa-fw"></i>
-						</div>
-					</a>
-				</div>
-				<div class="sub">
-					<div class="title">维基百科词条搜索</div>
-					<div class="content">Html、Bootstrap and Jquery</div>
-					<div class="tips">2016年9月9日</div>
-				</div>
-			</div>
-			<div class="col-sm-4">
-				<div class="top top7">
-					<a href="https://codepen.io/ypeco/full/KgdEYj">
-						<div class="cover">
-							<i class="fa fa-fire fa-fw"></i>
-						</div>
-					</a>
-				</div>
-				<div class="sub">
-					<div class="title">Twitch.tv</div>
-					<div class="content">Html、Bootstrap and Jquery</div>
-					<div class="tips">2016年9月13日</div>
-				</div>
-			</div>
-			
-		</div>
-	</div>
-</div>
+
+
 <div class="content4">
 	<div class="container">
-		<div class="left">联系作者：</br>xxxxxx@qq.com</div>
+		<div class="left">email：<br>asd623840@gmail.com</br></div>
 		<div class="right">
 				<ul>
-					<li><a href="https://github.com/pecopeco" target="_blank"><i class="fa fa-github fa-fw"></i> Github</a></li>
-					<li><a href="https://codepen.io/ypeco/" target="_blank"><i class="fa fa-edit fa-fw"></i> Codepen</a></li>
-					<li><a href="https://coding.net/u/yangth" target="_blank"><i class="fa fa-github-alt fa-fw"></i> Coding</a></li>
-					<li><a href="http://weibo.com/u/2130327481" target="_blank"><i class="fa fa-eye fa-fw"></i> 新浪微博</a></li>
+					<li><a href="https://github.com/Allen01311/Allen-web" target="_blank"><i class="fa fa-github fa-fw"></i> Github</a></li>
+					<li><a href="https://www.instagram.com/guanhua0131/" target="_blank"><i class="fa fa-github-alt fa-fw"></i>Instagram</a></li>
+					<li><a href="https://www.facebook.com/profile.php?id=100000289808286" target="_blank"><i class="fa fa-eye fa-fw"></i>Facebook</a></li>
 				</ul>
 		</div>
-	</div>
-</div>
-<div class="writer-box">
-	<div class="writer">
-		<ul>
-			<li><a href="javascript:;" class="home">主页</a></li>
-			<li>⋅</li>
-			<li><a href="javascript:;" class="about">关于作者</a></li>
-			<li>⋅</li>
-			<li><a href="javascript:;" class="portfolio">作品</a></li>
-			<li>⋅</li>
-			<li><a href="javascript:;" class="contact">联系方式</a></li>
-		</ul>
-		<div class="writer-tips">Written and coded by peco</div>
 	</div>
 </div>
 
