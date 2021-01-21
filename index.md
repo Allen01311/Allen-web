@@ -8,9 +8,17 @@
 <h4>英文自傳</h4>
 <h5>I am Allen, a third-year student in Fu Jen University. I'm very kindly, I always listen to everyone's, and I don't persistent in myself. My hobbies is playing baseball and my expertise is C++ ,HTML and Android studio. My advantage is that I can grab the focus of things and I can deal with various situations between people relatively quickly. One advantage is that I think it is very important, that is never late or absent for no reason. I think this is the duty to be  a student or an employee. I don’t think I have any important achievements in the student stage. I can only say that I have achieved some small goals: I wrote the login and shopping system of the web in my sophomore year, and I am currently developing an Android system app and combining database with my classmates.</h5>
 
+<h4>常見程式語言簡介<h4>
 <select onChange="location = this.options[this.selectedIndex].value;">
 <option value="#">請選擇</option>
-<option value="https://www.google.com.tw">Google 台灣</option>
-<option value="http://tw.yahoo.com">Yahoo! 奇摩</option>
-<option value="http://www.php.net">PHP.net</option>
+<option value="https://zh.wikipedia.org/wiki/C%E8%AF%AD%E8%A8%80">C</option>
+<option value="https://zh.wikipedia.org/wiki/C%2B%2B">C++</option>
+<option value="https://zh.wikipedia.org/wiki/C%E2%99%AF">C#</option>
+<option value="https://zh.wikipedia.org/wiki/Python">Python</option>
+<option value="https://zh.wikipedia.org/wiki/Java">Java</option>
+<option value="https://zh.wikipedia.org/wiki/JavaScript">JavaScript</option>
+<option value="https://zh.wikipedia.org/wiki/HTML">Html</option>
+<option value="https://zh.wikipedia.org/wiki/%E5%B1%82%E5%8F%A0%E6%A0%B7%E5%BC%8F%E8%A1%A8">Css</option>
+<option value="https://zh.wikipedia.org/wiki/Node.js">Node.js</option>
+<option value="https://en.wikipedia.org/wiki/R_(programming_language)">R</option>
 </select>
