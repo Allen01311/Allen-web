@@ -1,6 +1,7 @@
  <body style="background-color:#97FFFF;">
 <h1>Guanhua's Website</h1>
 
+<body background="https://i.imgur.com/Ea0nTkH.jpg"></body>
 <h1>
 <script language="JavaScript">
 function ShowTime(){
@@ -44,8 +45,6 @@ function ShowTime(){
 </select>
 
 <h4></h4>
-
-
 <div class="content">
 	<div class="container">
 		<div class="left">email：asd623840@gmail.com</div>
