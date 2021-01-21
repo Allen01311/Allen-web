@@ -29,6 +29,7 @@ function ShowTime(){
 </div>
 
 <h4>常見程式語言簡介<h4>
+<div style="line-height:5px;">
 <select onChange="location = this.options[this.selectedIndex].value;">
 <option value="#">請選擇</option>
 <option value="https://zh.wikipedia.org/wiki/C%E8%AF%AD%E8%A8%80">C</option>
@@ -42,18 +43,20 @@ function ShowTime(){
 <option value="https://zh.wikipedia.org/wiki/Node.js">Node.js</option>
 <option value="https://en.wikipedia.org/wiki/R_(programming_language)">R</option>
 </select>
+</div>
+
 
 <div class="top-bar">
 	<ul>
 		<li><a href="javascript:;" class="home">主頁</a></li>
-		<li><a href="javascript:;" class="contact">聯絡方式</a></li>
+		<li><a href="javascript:;" class="content">聯絡方式</a></li>
 	</ul>
 </div>
 
 
-<div class="content4">
+<div class="content">
 	<div class="container">
-		<div class="left">email：<br>asd623840@gmail.com</br></div>
+		<div class="left">email：asd623840@gmail.com</div>
 		<div class="right">
 				<ul>
 					<li><a href="https://github.com/Allen01311/Allen-web" target="_blank"><i class="fa fa-github fa-fw"></i> Github</a></li>
