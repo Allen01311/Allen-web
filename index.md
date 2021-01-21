@@ -1,5 +1,4 @@
-<!DOCTYPE html>  
-<html> 
+ <html> 
 <body style="background-color:#97FFFF;">
 <h1>Guanhua's Website</h1>
 <h3>自我介紹</h3>
@@ -27,11 +26,7 @@
 
 <script language="JavaScript">
 function ShowTime(){
-　var NowDate=new Date();
-　var h=NowDate.getHours();
-　var m=NowDate.getMinutes();
-　var s=NowDate.getSeconds();　
-　document.getElementById('showbox').innerHTML = h+'時'+m+'分'+s+'秒';
+　document.getElementById('showbox').innerHTML = new Date();
 　setTimeout('ShowTime()',1000);
 }
 </script>
