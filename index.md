@@ -1,7 +1,7 @@
  <html> 
 <body style="background-color:#97FFFF;">
 <h1>Guanhua's Website</h1>
-<h1>
+
 <script language="JavaScript">
 function ShowTime(){
 　document.getElementById('showbox').innerHTML = new Date();
@@ -11,7 +11,7 @@ function ShowTime(){
 <body onload="ShowTime()">
 <div id="showbox"></div>
 </body>
-</h1>
+
 
 <h3>自我介紹</h3>
 <img src="https://i.imgur.com/EhQ26in.jpg">
