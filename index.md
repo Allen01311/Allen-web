@@ -51,8 +51,9 @@ function ShowTime(){
 		<div class="right">
 				<ul>
 					<li><a href="https://github.com/Allen01311/Allen-web" target="_blank"><i class="fa fa-github fa-fw"></i> Github</a></li>
-					<li><a href="https://www.instagram.com/guanhua0131/" target="_blank"><i class="fa fa-github-alt fa-fw"></i>Instagram</a></li>
-					<li><a href="https://www.facebook.com/profile.php?id=100000289808286" target="_blank"><i class="fa fa-eye fa-fw"></i>Facebook</a></li>
+					<li><a href="https://www.instagram.com/guanhua0131/" target="_blank"><i class="fa fa-Instagram fa-fw"></i>Instagram</a></li>
+					<li><a href="https://www.facebook.com/profile.php?id=100000289808286" target="_blank"><i class="fa fa-Facebook fa-fw"></i>Facebook</a></li>
+					<li><a href="https://s30.aconvert.com/convert/p3r68-cdx67/aqdyi-8eab2.html" target="_blank"><i class="fa fa-sql fa-fw"></i> 資料庫107考古題</a></li>
 				</ul>
 		</div>
 	</div>
