@@ -1,4 +1,5 @@
  <body style="background-color:#97FFFF;">
+ <title>冠華的web</title>
 <h1>Guanhua's Website</h1>
 
 <body background="https://i.imgur.com/ZkM76BW.jpg"></body>
