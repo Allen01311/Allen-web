@@ -19,12 +19,12 @@ function ShowTime(){
 <font size="10">自我介紹</font>
 <img src="https://i.imgur.com/EhQ26in.jpg">
 
-<font size="8">中文自傳</font>
+<font size="6">中文自傳</font>
 <div style="line-height:5px;">
 <h4>我是蘇冠華，是輔大資工三年級的學生。我的個性非常隨和，時常會聽取大家的想法，不會剛愎自用。我的興趣是打棒球，而我的專長是C++、Android studio及HTML開發，我的優點就是蠻會抓事情的重點，也因為做過服務業，能夠比較快應對各種人與人之間的狀況，我還有另一個優點是我認為很重要的，就是不會遲到or無故缺席，我覺得這是身為學生or員工所該盡的本分；缺點則是由於我們系的課程主要都是偏向學術理論，而很少接觸到實作方面。我認為在學生階段還不能稱上自己有重要的成就，只能說是達成小目標:我大二曾經寫過網頁的登入及購物系統，大三上曾與同學一起開發Android系統的app並結合資料庫，並在大三下開始著手畢業專題的製作。</h4>
 </div>
 
-<font size="8">英文自傳</font>
+<font size="6">英文自傳</font>
 <div style="line-height:5px;">
 <h4>I am Allen, a third-year student in Fu Jen University. I'm very kindly, I always listen to everyone's, and I don't persistent in myself. My hobbies is playing baseball and my expertise is C++ ,HTML and Android studio. My advantage is that I can grab the focus of things and I can deal with various situations between people relatively quickly. One advantage is that I think it is very important, that is never late or absent for no reason. I think this is the duty to be  a student or an employee. I don’t think I have any important achievements in the student stage. I can only say that I have achieved some small goals: I wrote the login and shopping system of the web in my sophomore year, and I am currently developing an Android system app and combining database with my classmates.</h4>
 </div>
@@ -54,7 +54,7 @@ function ShowTime(){
 <h4></h4>
 <div class="content">
 	<div class="container">
-		<div class="left">email：asd623840@gmail.com</div>
+		<div class="left"><h3>email：asd623840@gmail.com</h3></div>
 		<div class="right">
 				<ul>
 					<li><a href="https://github.com/Allen01311/Allen-web" target="_blank"><i class="fa fa-github fa-fw"></i> Github</a></li>
