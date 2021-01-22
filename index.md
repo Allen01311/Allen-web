@@ -44,6 +44,13 @@ function ShowTime(){
 <option value="https://en.wikipedia.org/wiki/R_(programming_language)">R</option>
 </select>
 
+<h3>曾經製作的報告</h3>
+<ul>
+	<li><a href="https://s6.aconvert.com/convert/p3r68-cdx67/aa1e3-rq2i4.html" target="_blank"><i class="fa fa-kotlin fa-fw"></i> kotlin專題報告</a></li>
+	<li><a href="https://s6.aconvert.com/convert/p3r68-cdx67/a5dr9-7e8qg.html" target="_blank"><i class="fa fa-sql fa-fw"></i> 資料庫專題報告</a></li>
+	<li><a href="https://s6.aconvert.com/convert/p3r68-cdx67/alxhh-jqfg7.html" target="_blank"><i class="fa fa-asm fa-fw"></i> x86組合語言專題報告</a></li>
+</ul>
+
 <h4></h4>
 <div class="content">
 	<div class="container">
@@ -53,7 +60,6 @@ function ShowTime(){
 					<li><a href="https://github.com/Allen01311/Allen-web" target="_blank"><i class="fa fa-github fa-fw"></i> Github</a></li>
 					<li><a href="https://www.instagram.com/guanhua0131/" target="_blank"><i class="fa fa-Instagram fa-fw"></i>Instagram</a></li>
 					<li><a href="https://www.facebook.com/profile.php?id=100000289808286" target="_blank"><i class="fa fa-Facebook fa-fw"></i>Facebook</a></li>
-					<li><a href="https://s30.aconvert.com/convert/p3r68-cdx67/aqdyi-8eab2.html" target="_blank"><i class="fa fa-sql fa-fw"></i> 資料庫107考古題</a></li>
 				</ul>
 		</div>
 	</div>
